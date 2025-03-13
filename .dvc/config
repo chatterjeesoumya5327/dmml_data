@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://dmml-assignment/dvc-remote
+    access_key_id = AKIA34IVWQAYH7KB6J7Z
+    secret_access_key = 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
+    region = ap-northeast-1
